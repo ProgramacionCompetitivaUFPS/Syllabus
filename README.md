@@ -86,6 +86,10 @@ Aunque ningún ejercicio es de obligatoria entrega, se recomienda estudiar y pra
 
 Estos ejercicios estarán disponibles en un juez de juzgamiento, generalmente UVA, por lo cual el estudiante tendrá un veredicto sobre su solución solo segundos despues de haberla enviado. Cada semana se publica el respectivo set de ejercicios en la carpeta "Sets de Ejercicios" de este mismo repositorio.
 
+### Set de ejercicios Actuales
+
+* [Entradas, salidas y procesamientos básicos](Ejercicios Propuestos/Entradas, salidas y procesamientos básicos.md)
+
 ### Soluciones
 
 Las soluciones realizadas tanto en las competencias de RPC y CCPL como en los sets de entrenamiento pueden ser compartidas con el resto del grupo si asi lo decide su creador (quien comparte una solución acepta liberarla bajo una licencia MIT). Estas soluciones se encuentran en el repositorio soluciones en esta misma organización.
