@@ -24,7 +24,7 @@ Listado de ejercicios propuestos sobre estructuras de datos. La categoria indica
 * [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2949) (Categoria 1)
 * [Andy's First Dictionary](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1756) (Categoría 1)
 
-### Hashmap
+### TreeMap
 
 * [The Department of Redundance Department](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=425) (Categoría 3)
 * [Word Index](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=358) (Categoría 4)
