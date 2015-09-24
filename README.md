@@ -88,7 +88,8 @@ Estos ejercicios estarán disponibles en un juez de juzgamiento, generalmente UV
 
 ### Set de ejercicios Actuales
 
-* [Entradas, salidas y procesamientos básicos](Ejercicios Propuestos/Entradas, salidas y procesamientos básicos.md)
+* [Entradas, salidas y procesamientos básicos](Ejercicios Propuestos/Entradas, salidas y procesamientos básicos.md).
+* [Estructuras de datos](Ejercicios Propuestos/Estructuras de datos.md).
 
 ### Soluciones
 
