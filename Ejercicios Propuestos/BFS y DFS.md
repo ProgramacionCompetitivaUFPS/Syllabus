@@ -20,7 +20,8 @@ Posteriormente, se recibe el laberinto, indicado con '.', '#', 'I' y 'S' según 
     
 * Casos de prueba (Cada uno es independiente, validar por separado:
 
-8 8
+
+` 8 8
 .......I
 .#######
 .#......
@@ -28,7 +29,7 @@ Posteriormente, se recibe el laberinto, indicado con '.', '#', 'I' y 'S' según 
 .###.#.#
 .#...#.#
 .#.###.#
-........
+........ 
 
 
 
@@ -51,17 +52,17 @@ Posteriormente, se recibe el laberinto, indicado con '.', '#', 'I' y 'S' según 
 .###.#.#
 .#...#.#
 .#.###.#
-........
+........`
 
 * Salidas de casos de prueba:
 
     * BFS:
-23
+` 23
 -1
-2
+2 `
 
     * DFS:
-Si
+` Si
 No
-Si
+Si `
 
