@@ -3,14 +3,14 @@
 **Si quieres aplicar la estructura de este repositorio en tus propios proyectos educativos, mira el documento con los [metadatos](meta.md) del repositorio.**
 
 * Clase: Programación Competitiva UFPS, grupo de estudio.
-* Couch: Fredy Vera
+* Coach: Milton Vera
 * Instructores: 
-    * Cristhian León, [Cristhian.leonlizarazo@gmail.com](mailto:Cristhian.leonlizarazo@gmail.com)
     * Gerson Lázaro, [gersonlazaro@acm.org](mailto:gersonlazaro@acm.org)
     * Melissa Delgado, [adelgadoleon@acm.org](mailto:adelgadoleon@acm.org)  
+    * Manuel Salazar,
+    * Crisel Ayala,
+    * Carlos Calderon
 * Metodología: 
-    * Valeria Salazar
-    * Edgar Garcia 
     * Gerson Lázaro
     * Melissa Delgado
     
