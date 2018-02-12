@@ -71,8 +71,7 @@ Si no cumples ninguno de estos requisitos no podrás representar a la Universida
 
 Cada semana se lleva a cabo una sesión presencial en las salas de Sistemas de la Universidad Francisco de Paula Santander. En esta seccin se realiza una parte básica y una avanzada, con temáticas que se ajustan a la complejidad indicada. En estas sesiones en primer lugar se discuten dudas que hayan surgido en el desarrollo de los ejercicios de la semana anterior. Posteriormente se trata el tema de la semana, cuyos slides estarán disponibles en el repositorio. La sesión culmina con ejercicios sobre el tema visto, los cuales se publican en el repositorio, y los estudiantes pueden realizarlos con el apoyo y acompañamiento de los tutores.
 
-Los temas a tratar en el grupo de estudio son (no necesariamente todos los temas serán cubiertos cada semestre. Los temas a tratar semestralmente son definidos al iniciar sesiones en el grupo):
-
+Los temas a tratar en el grupo de estudio se encuentran detallados en [temas.md](temas.md).
 
 
 ### Tareas
@@ -81,14 +80,8 @@ El grupo de estudio no es una asignatura y no es una clase tradicional. Por lo t
 
 Aunque ningún ejercicio es de obligatoria entrega, se recomienda estudiar y practicar los ejercicios tratados para mejorar las habilidades frente a las futuras competencias.
 
-Estos ejercicios estarán disponibles en un juez de juzgamiento, generalmente UVA, por lo cual el estudiante tendrá un veredicto sobre su solución solo segundos despues de haberla enviado. Cada semana se publica el respectivo set de ejercicios en la carpeta "Sets de Ejercicios" de este mismo repositorio.
+Estos ejercicios se encuentran en la plataforma UFPS Training Center.
 
-### Set de ejercicios Actuales
-
-* [Entradas, salidas y procesamientos básicos](Ejercicios Propuestos/Entradas, salidas y procesamientos básicos.md).
-* [Estructuras de datos](Ejercicios Propuestos/Estructuras de datos.md).
-* [BFS y DFS](Ejercicios Propuestos/BFS y DFS.md).
-* [Grafos I](Ejercicios Propuestos/Grafos.md).
 
 ### Soluciones
 
@@ -100,16 +93,7 @@ Existen dos maneras de compartir las soluciones:
 
 ### Entrenamientos segundo semestre 2015
 
-Los entrenamientos se llevan a cabo algunos sabados, de 1PM a 6PM con el apoyo de RPC o CCPL, compitiendo con equipos de otras Universidades en Colombia y Latinoamerica. Los siguientes son los entrenamientos planteados para el 2015/02:
-
-* Septiembre 12: Competencia 09 Red Programación Competitiva (Maratón Nacional Brasilera)
-* Septiembre 26: Competencia 10 Red Programación Competitiva (Torneo Argentino de Programación) Nota: Esta competencia no se realiza en el horario habitual. Será de 2pm a 7pm.
-* Octubre 10: Competencia 11 Red Programación Competitiva 
-* Octubre 17: Round 11 Liga Colombiana de Programación Competitiva
-* Octubre 24: Competencia 12 Red Programación Competitiva
-* Octubre 31: Round 12 Liga Colombiana de Programación Competitiva
-* Noviembre 07: Competencia 13  Red Programación Competitiva
-* Noviembre 28: Competencia 14  Red Programación Competitiva
+Los entrenamientos se llevan a cabo algunos sabados, de 1PM a 6PM con el apoyo de RPC o CCPL, compitiendo con equipos de otras Universidades en Colombia y Latinoamerica. En el archivo [calendario.md](calendario.md) puedes encontrar la lista de competencias a realizarse durante el 2018:
 
 
 ## Recursos
@@ -117,12 +101,15 @@ Los entrenamientos se llevan a cabo algunos sabados, de 1PM a 6PM con el apoyo d
 ### Material de apoyo recomendado
 
 * [LIBRO: Competitive Programming](http://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - Steven Halim & Felix Halim.
+* [LIBRO: Competitive Programmer’s Handbook](https://cses.fi/book.pdf) - Antti Laaksonen
 * [DIAPOSITIVAS: Programación Competitiva](https://github.com/anaechavarria/SemilleroProgramacion/tree/master/Diapositivas) - Ana Echavarria Uribe.
-* [VIDEOS: Explicaciones a diferentes ejercicios](https://www.youtube.com/channel/UCfhkhxzKbBzpXi2AANpEMIA) - Miembros de RPC (Incluyendo algunos del grupo).
+* [VIDEOS: Explicaciones en video de los temas vistos en el grupo](https://www.youtube.com/watch?v=CT45lvNi0EA&list=PLSwo5OoAKKAhaphD2Yf7eUBDy9tjr502r) - Gerson Lázaro, Melissa Delgado y Crisel Ayala.
+* [VIDEOS: Explicaciones a diferentes ejercicios de RPC](https://www.youtube.com/channel/UCfhkhxzKbBzpXi2AANpEMIA) - Miembros de RPC (Incluyendo algunos del grupo).
 * [LECTURAS: Sección "Resolvamos un Problema", The Science of Code](http://thescienceofcode.azurewebsites.net/)  - Daniel Cañizares.
 
 ### Jueces virtuales de programación Competitiva
 
+* [UFPS Training Center]()
 * [UVA - Juez Universidad de Valladolid](http://uva.onlinejudge.org/)
 * [COJ - Caribbean Online Judge - Universidad de las ciencias Informáticas - Cuba](http://coj.uci.cu/index.xhtml)
 * [Codeforces](http://codeforces.com/contests)
@@ -143,7 +130,7 @@ Los entrenamientos se llevan a cabo algunos sabados, de 1PM a 6PM con el apoyo d
 * [International Collegiate Programming Contest (ICPC)](http://icpc.baylor.edu).
 * [Red de Programación Competitiva](http://redprogramacioncompetitiva.com).
 * [Colombian Collegiate Programming League](http://www.programmingleague.org/).
-* [Asociación Colombiana de Ingenieros de sistemas (Organizadores de la maratón Nacional de Programación)](http://52.1.175.72/portal/)
+* [Asociación Colombiana de Ingenieros de sistemas (Organizadores de la maratón Nacional de Programación)](http://acis.org.co/)
 
 ### Contexto
 
