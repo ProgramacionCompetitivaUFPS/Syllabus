@@ -1,15 +1,18 @@
 # Syllabus - Programación Competitiva
 
+### Semestre I - 2018
+
 **Si quieres aplicar la estructura de este repositorio en tus propios proyectos educativos, mira el documento con los [metadatos](meta.md) del repositorio.**
 
 * Clase: Programación Competitiva UFPS, grupo de estudio.
 * Coach: Milton Vera
-* Instructores: 
+* Instructores/Lideres del grupo (abierto a nuevas postulaciones): 
     * Gerson Lázaro, [gersonlazaro@acm.org](mailto:gersonlazaro@acm.org)
     * Melissa Delgado, [adelgadoleon@acm.org](mailto:adelgadoleon@acm.org)  
     * Manuel Salazar,
     * Crisel Ayala,
-    * Carlos Calderon
+    * Carlos Calderon,
+    * David Tolosa
 * Metodología: 
     * Gerson Lázaro
     * Melissa Delgado
@@ -21,11 +24,11 @@
 
 ### Descripción del curso
 
-Explora la programación desde un nuevo contexto. Aprende creando y resolviendo problemas mientras te diviertes y compites con los demas estudiantes en la Universidad y en el resto del mundo. En este grupo de estudio se exponen los temas comunes en las maratones de programación competitiva, se hacen cortas clases magistrales sobre cada uno de estos temas, y se proponen ejercicios para resolver con la ayuda guiada de los instructores y el couch. 
+Explora la programación desde un nuevo contexto. Aprende creando y resolviendo problemas mientras te diviertes y compites con los demás estudiantes en la Universidad y en el resto del mundo. En este grupo de estudio se socializan los temas comunes en las maratones de programación competitiva, se hacen sesiones colaborativas sobre cada uno de estos temas, y se proponen ejercicios para resolver con la ayuda guiada de los instructores y el couch. 
 
 El grupo de estudio hace parte activa de las competencias organizadas por la [Red de programación Competitiva](http://redprogramacioncompetitiva.com) y la [Liga Colombiana de Programación](http://www.programmingleague.org/). Del mismo modo, elige a los estudiantes que representan a la Universidad en las diferentes fases del [International Collegiate Programming Contest](https://icpc.baylor.edu/).
 
-A continuación, los slides con los cuales se realizó la presentación al Grupo de Estudio en la primera sesión: [Slides](http://programacioncompetitivaufps.github.io/slides/0-Presentaci%C3%B3n/index.html/)
+Si eres nuevo en competencias de Programación, una corta introducción: [Slides](http://programacioncompetitivaufps.github.io/slides/0-Presentaci%C3%B3n/index.html/)
 
 
 ## ¿Que es una maratón de programación?
@@ -47,36 +50,74 @@ Aunque existen diferentes tipos de maratones de programación, el grupo de estud
 
 ### Otras competencias de programación
 
-Las siguientes competencias utilizan formatos similares de competencias, y suelen entregar grandes premios a sus ganadores:
+Las siguientes competencias utilizan formatos similares de competencias, y suelen entregar grandes premios a sus ganadores. Se recomienda a los miembros del grupo participar en estas competencias para mejorar sus habilidades y medirse contra una gran comunidad:
 
 * [Facebook HackerCup](https://www.facebook.com/hackercup?fref=ts)
 * [Google Code Jam](https://code.google.com/codejam)
+* [Deadline24](https://deadline24.pl/)
 
 
 ### Prerequisitos
 
-* Conocimientos básicos en programación en Java, C o C++.
+* Se recomienda entender previamente los conceptos básicos de programación y saber aplicarlo en algún lenguaje. No es estrictamente obligatorio, pero hará mas facil la curva de aprendizaje
 * Dedicación.
-* Para participar en las competencias oficiales de ICPC, es necesario cumplir con los requisitos establecidos en el [Árbol de elegibilidad](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2015.pdf)
+* Para participar en las competencias oficiales de ICPC, es necesario cumplir con los requisitos establecidos en el [Árbol de elegibilidad de ICPC](http://icpc.baylor.edu/download/regionals/rules/EligibilityDecisionTree-2017.pdf). En resumen, para el 2018 debes cumplir al menos UNO de los siguientes dos requisitos:
+    * Haber iniciado estudios superiores en 2014 o después.
+    * Haber nacido en 1995 o después.
+Si no cumples ninguno de estos requisitos no podrás representar a la Universidad en competencias Nacionales/Regionales, pero si hacer parte del grupo de estudio, de las competencias en RPC/CCPL y todas las demás actividades planteadas. 
 
 
 ### Resumen del curso
 
-Cada semana se lleva a cabo una sesión presencial en las salas de Sistemas de la Universidad Francisco de Paula Santander. En esta sesión en primer lugar se discuten dudas que hayan surgido en el desarrollo de los ejercicios de la semana anterior. Posteriormente se trata el tema de la semana, cuyos slides estarán disponibles en el repositorio. La sesión culmina con ejercicios sobre el tema visto, los cuales se publican en el repositorio, y los estudiantes pueden realizarlo con el apoyo y acompañamiento de los tutores.
+Cada semana se lleva a cabo una sesión presencial en las salas de Sistemas de la Universidad Francisco de Paula Santander. En esta seccin se realiza una parte básica y una avanzada, con temáticas que se ajustan a la complejidad indicada. En estas sesiones en primer lugar se discuten dudas que hayan surgido en el desarrollo de los ejercicios de la semana anterior. Posteriormente se trata el tema de la semana, cuyos slides estarán disponibles en el repositorio. La sesión culmina con ejercicios sobre el tema visto, los cuales se publican en el repositorio, y los estudiantes pueden realizarlos con el apoyo y acompañamiento de los tutores.
 
-Los temas a tratar en el grupo de estudio son:
+Los temas a tratar en el grupo de estudio son (no necesariamente todos los temas serán cubiertos cada semestre. Los temas a tratar semestralmente son definidos al iniciar sesiones en el grupo):
 
-* Herramientas, lenguajes y generalidades.
-* Estructuras de datos.
-* Recursión, DFS y BFS.
-* Algoritmos Avidos (greedy).
-* Algoritmos Clásicos de grafos (I)
-* Algoritmos Clásicos de grafos (II)
-* Combinatoria y conteo
-* Probabilidad
-* Memoization y Programación Dinámica
-* Teoría de números
-* Procesamiento de cademas
+* Introducción a competencias de programación (Básico)
+* Entrada/Salida estándar (Básico)
+* Instrucciones Condicionales (Básico)
+* Ciclos (Básico)
+* Recursión (Básico)
+* Arreglos (Básico)
+* Introducción a la complejidad algorítmica (Intermedio)
+* Ordenamiento (Metodos incluidos en los lenguajes de programación comunes) (Básico)
+* Busqueda Binaria (Intermedio)
+* Estructuras tipo vector (Básico)
+* Listas enlazadas (básico)
+* Pilas (básico)
+* Colas (básico)
+* Bitsets (Intermedio)
+* Treeset (Intermedio)
+* Treemap (Intermedio)
+* Cola de prioridad (Intermedio)
+* Disjoint set (Avanzado)
+* Arboles segmentados (Avanzado)
+* Arboles de Fenwick (Avanzado)
+* Introduccin a la teoría de grafos (Básico)
+* Matriz de adyacencia (Básico)
+* Lista de adyacencia (Básico)
+* Lista de arcos (Básico)
+* Grafos implicitos (Intermedio)
+* Arboles (Intermedio)
+* Arboles binarios completos (Intermedio)
+* BFS (Intermedio)
+* DFS (Intermedio)
+* Componentes conexos (Avanzado)
+* Algoritmo de Kruskal (Avanzado)
+* Algoritmo de Prim (Avanzado)
+* Algoritmo de Dijkstra (Avanzado)
+* Algoritmo de Floyd Warshall (Avanzado)
+* Camino Euleriano (Avanzado)
+* Camino Hamiltoniano (Avanzado)
+* Puentes e ismos (Avanzado)
+* Ordenamiento topológico (Avanzado)
+* Flujo Mínimo y Máximo (Avanzado)
+* Algoritmo de fuerza bruta (Intermedio)
+* Backtracking (Avanzado)
+* Meet in the Middle (Avanzado)
+* Algoritmos Avaros (Intermedio)
+* Programacin dinámica (Avanzado)
+* Algoritmos divide y venceras (Intermedio)
 
 ### Tareas
 
